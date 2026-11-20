@@ -6,4 +6,5 @@
 
 | item | Resultado |
 |---|---|
-| teste 1 | teste OK | 
+| teste 1 | teste OK |
+| teste 2 | Em andamento |
